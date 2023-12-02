@@ -6,8 +6,8 @@ import { X, Menu } from 'lucide-react'
  return (
   <>
        <NavLink to="/">home</NavLink>
-       <NavLink to="/">home</NavLink>
-       <NavLink to="/">home</NavLink>
+       <NavLink to="/upload">Upload</NavLink>
+       <NavLink to="/about">About</NavLink>
      
 </>
  )
