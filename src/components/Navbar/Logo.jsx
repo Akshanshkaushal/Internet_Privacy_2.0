@@ -1,7 +1,5 @@
-import React from 'react'
+import logo from "../Navbar/logo/iPhone 14 & 15 Pro Max - 1.png"
 
-export default function Logo() {
-  return (
-    <div>Logo</div>
-  )
-}
+export {logo};
+
+ 
