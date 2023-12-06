@@ -7,7 +7,6 @@ const Upload = () => {
     const file = event.target.files[0];
 
     if (file) {
-     
       setSelectedImage(file);
     }
   };
@@ -15,6 +14,7 @@ const Upload = () => {
   const handleUpload = () => {
   
     //Upload logic
+
 
     if (selectedImage) {
       console.log('Selected Image:', selectedImage);
